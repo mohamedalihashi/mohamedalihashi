@@ -2,7 +2,7 @@
   <img src="./profile_banner.png" width="100%" alt="Banner" style="border-radius: 10px;" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Mohamed Ali</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Ali Hashi</h1>
 <h3 align="center">🚀 Full Stack Developer | Open Source Enthusiast | Tech Explorer</h3>
 
 <div align="center">
