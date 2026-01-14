@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./profile_banner.png" width="100%" height="100px" alt="Banner" style="border-radius: 10px;" />
+  <img src="./profile_banner.png" width="100%" height="300px" alt="Banner" style="border-radius: 10px;" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Mohamed Ali Hashi</h1>
